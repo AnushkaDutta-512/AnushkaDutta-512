@@ -81,6 +81,17 @@ class Anushka:
 ```
 
 ---
+# Research & Publications
+
+<div align="center">
+
+| Research Paper                                                                                   | Conference                                                                                  |
+| ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------- |
+| 🧬 Colon Cancer Detection using Deep Learning & Explainable AI (ResNet50, DenseNet121 & GradCAM) | Accepted for publication at **AICCON 2026** organized by **University of Wollongong Dubai** |
+
+</div>
+
+---
 
 # Tech Arsenal
 
