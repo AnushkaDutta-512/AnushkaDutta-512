@@ -206,17 +206,7 @@ class Anushka:
 
 </div>
 
----
 
-# Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnushkaDutta-512E&bg_color=1A1B27&color=FF6EC7&line=FF6EC7&point=FFFFFF&area=true&hide_border=true" />
-
-</div>
-
----
 
 # Open Source
 
