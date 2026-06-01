@@ -27,9 +27,9 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20Views&color=ff69b4&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=AnushkaDutta-512&label=Profile%20Views&color=ff69b4&style=for-the-badge" />
 
-<img src="https://img.shields.io/github/followers/YOURUSERNAME?label=Followers&style=for-the-badge&color=ff69b4" />
+<img src="https://img.shields.io/github/followers/AnushkaDutta-512?label=Followers&style=for-the-badge&color=ff69b4" />
 
 <img src="https://img.shields.io/badge/Focus-AI%20SYSTEMS-blueviolet?style=for-the-badge" />
 
@@ -164,17 +164,9 @@ class Anushka:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&title_color=FF6EC7&icon_color=FF6EC7" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnushkaDutta-512&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&title_color=FF6EC7&icon_color=FF6EC7" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&langs_count=8&theme=radical&hide_border=true&title_color=FF6EC7" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=radical&hide_border=true&stroke=FF6EC7&ring=FF6EC7&fire=FF6EC7&currStreakLabel=FF6EC7" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnushkaDutta-512&layout=compact&langs_count=8&theme=radical&hide_border=true&title_color=FF6EC7" />
 
 </div>
 
@@ -182,7 +174,7 @@ class Anushka:
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOURUSERNAME&theme=radical" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnushkaDutta-512&theme=radical&hide_border=true&stroke=FF6EC7&ring=FF6EC7&fire=FF6EC7&currStreakLabel=FF6EC7" />
 
 </div>
 
@@ -190,9 +182,7 @@ class Anushka:
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOURUSERNAME&theme=radical" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOURUSERNAME&theme=radical" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnushkaDutta-512&theme=radical" />
 
 </div>
 
@@ -200,9 +190,19 @@ class Anushka:
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOURUSERNAME&theme=radical" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnushkaDutta-512&theme=radical" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOURUSERNAME&theme=radical&utcOffset=5.5" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnushkaDutta-512&theme=radical" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnushkaDutta-512&theme=radical" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnushkaDutta-512&theme=radical&utcOffset=5.5" />
 
 </div>
 
@@ -212,7 +212,7 @@ class Anushka:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&bg_color=1A1B27&color=FF6EC7&line=FF6EC7&point=FFFFFF&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnushkaDutta-512E&bg_color=1A1B27&color=FF6EC7&line=FF6EC7&point=FFFFFF&area=true&hide_border=true" />
 
 </div>
 
@@ -247,15 +247,15 @@ class Anushka:
 
 <div align="center">
 
-<a href="mailto:YOURMAIL@gmail.com">
+<a href="mailto:anushkadutta746512@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://linkedin.com/in/YOURLINKEDIN">
+<a href="https://linkedin.com/in/anushka-dutta512">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://github.com/YOURUSERNAME">
+<a href="https://github.com/AnushkaDutta-512">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
