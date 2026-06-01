@@ -45,11 +45,11 @@
 
 A B.Tech Computer Science student at **Manipal University Jaipur** passionate about building intelligent systems that combine:
 
-- 🤖 AI Engineering
-- 🧠 Retrieval-Augmented Generation (RAG)
-- ⚙️ Backend Systems
-- 🚀 DevOps & Deployment Infrastructure
-- 🌍 Open Source Developer Tooling
+- AI Engineering
+- Retrieval-Augmented Generation (RAG)
+- Backend Systems
+- DevOps & Deployment Infrastructure
+- Open Source Developer Tooling
 
 I enjoy turning ideas into scalable products while exploring modern AI infrastructure and production-inspired engineering workflows.
 
