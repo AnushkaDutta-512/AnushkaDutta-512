@@ -80,14 +80,47 @@ class Anushka:
     fun_fact = "I love building developer tools and AI systems."
 ```
 
----
 # Research & Publications
 
 <div align="center">
 
-| Research Paper                                                                                   | Conference                                                                                  |
-| ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------- |
-| 🧬 Colon Cancer Detection using Deep Learning & Explainable AI (ResNet50, DenseNet121 & GradCAM) | Accepted for publication at **AICCON 2026** organized by **University of Wollongong Dubai** |
+<table>
+
+<tr>
+
+<td width="50%" align="center">
+
+<img src="https://img.shields.io/badge/Research%20Paper-AICCON%202026-ff69b4?style=for-the-badge&logo=googlescholar&logoColor=white" />
+
+<br/><br/>
+
+🧬 <b>Colon Cancer Detection using Deep Learning & Explainable AI</b>
+
+<br/><br/>
+
+Using:
+ResNet50 • DenseNet121 • GradCAM
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="https://img.shields.io/badge/Conference-University%20of%20Wollongong%20Dubai-blueviolet?style=for-the-badge&logo=google-scholar&logoColor=white" />
+
+<br/><br/>
+
+📄 Accepted for publication at:
+
+<h3>AICCON 2026</h3>
+
+Organized by  
+<b>University of Wollongong Dubai</b>
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
 
@@ -263,8 +296,31 @@ class Anushka:
 <a href="https://pypi.org/project/codememoryai/">
 <img src="https://img.shields.io/badge/PyPI-codememoryai-blueviolet?style=for-the-badge&logo=pypi&logoColor=white" />
 </a>
+</a>
+
+<a href="YOUR_RESUME_LINK">
+
+<img src="https://img.shields.io/badge/Resume-FF6EC7?style=for-the-badge&logo=googledocs&logoColor=white" />
+
+</a>
+
+<a href="https://github.com/AnushkaDutta-512">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+</a>
 
 </div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/anushka_dutta512?theme=dark&font=Nunito&ext=heatmap" />
+
+</div>
+
+---
 
 <br/>
 
