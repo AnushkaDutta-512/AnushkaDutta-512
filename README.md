@@ -1,7 +1,6 @@
 <!-- ========================================= -->
 <!--            PREMIUM HEADER                 -->
 <!-- ========================================= -->
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,25:1e3a8a,50:7c3aed,75:ff69b4,100:00c2ff&height=240&section=header&text=Anushka%20Dutta&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Systems%20Engineer%20|%20Open%20Source%20Builder%20|%20RAG%20Explorer&descAlignY=58&descSize=18" />
 </div>
