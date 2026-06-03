@@ -311,13 +311,7 @@ Organized by
 
 </div>
 
-<br/>
 
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/anushka_dutta512?theme=dark&font=Nunito&ext=heatmap" />
-
-</div>
 
 ---
 
