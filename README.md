@@ -32,8 +32,6 @@
 
 <img src="https://img.shields.io/badge/Focus-AI%20SYSTEMS-blueviolet?style=for-the-badge" />
 
-<img src="https://img.shields.io/badge/Open%20Source-GSSoC-ff69b4?style=for-the-badge" />
-
 <img src="https://img.shields.io/pypi/v/codememoryai?style=for-the-badge&color=purple" />
 
 </div>
@@ -303,11 +301,6 @@ Organized by
 
 </a>
 
-<a href="https://github.com/AnushkaDutta-512">
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-
-</a>
 
 </div>
 
