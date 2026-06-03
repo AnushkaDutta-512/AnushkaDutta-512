@@ -308,13 +308,8 @@ Organized by
 
 ---
 
-<br/>
 
-<div align="center">
 
-## *"It's not over until I win."*
-
-</div>
 
 <!-- ========================================= -->
 <!--              FOOTER                       -->
