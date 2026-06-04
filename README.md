@@ -203,13 +203,10 @@ Organized by
 
 # GitHub Statistics
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnushkaDutta-512&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&title_color=FF6EC7&icon_color=FF6EC7" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnushkaDutta-512&layout=compact&langs_count=8&theme=radical&hide_border=true&title_color=FF6EC7" />
-
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnushkaDutta-512&show_icons=true&theme=radical&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnushkaDutta-512&layout=compact&theme=radical&hide_border=true"/>
+</p>
 
 ---
 
