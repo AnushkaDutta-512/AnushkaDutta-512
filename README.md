@@ -74,7 +74,6 @@ class Anushka:
         "Vector Databases"
     ]
 
-    fun_fact = "I love building developer tools and AI systems."
 ```
 
 # Research & Publications
