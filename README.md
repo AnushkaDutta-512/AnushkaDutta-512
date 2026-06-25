@@ -243,31 +243,6 @@ Organized by
 
 </div>
 
-
-
-# Open Source
-
-<div align="center">
-
-| Program | Status |
-|---|---|
-| 🌍 GirlScript Summer of Code | Contributor |
-| 📦 PyPI | Published `codememoryai` |
-| 🤖 AI Tooling | Building developer systems |
-| 🚀 OSS Goals | Scaling AI infra projects |
-
-</div>
-
----
-
-# 2026 Goals
-
-- 🚀 Build advanced multi-agent AI systems
-- 🌍 Contribute heavily to open source
-- 📦 Publish more Python libraries on PyPI
-- ⚙️ Learn scalable AI infrastructure design
-- 💼 Land impactful AI/software engineering internships
-
 ---
 
 # Let's Connect
